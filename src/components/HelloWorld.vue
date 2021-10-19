@@ -151,8 +151,8 @@
 
 <script>
   const gradients = [
-    ['blue', 'blue', 'black'],
-    ['red', 'red', 'black']
+    ['blue', '#2196F3', 'white'],
+    ['red', 'red', 'white']
   ]
   export default {
     name: 'HelloWorld',
